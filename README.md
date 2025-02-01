@@ -1,2 +1,2 @@
 # Portfolio
-Deployed Link: https://shivamsingh-portfolio.netlify.app
+Deployed Link: https://shivamsingh-portfolio.netlify.app/
